@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вычисление определенного интеграла", "Вычисление определенного интеграла\Вычисление определенного интеграла.csproj", "{3B042A23-0464-41D8-897A-8BCD47CBDF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B042A23-0464-41D8-897A-8BCD47CBDF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B042A23-0464-41D8-897A-8BCD47CBDF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B042A23-0464-41D8-897A-8BCD47CBDF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B042A23-0464-41D8-897A-8BCD47CBDF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BF1B1C-84E1-422E-A8E4-ED807597C33B}
+	EndGlobalSection
+EndGlobal
